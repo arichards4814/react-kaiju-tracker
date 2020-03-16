@@ -4,6 +4,8 @@ import React from 'react'
 import KaijuContainer from './KaijuContainer'
 // Styling
 import './App.css';
+// Import Fetches
+import * as requests from './requests'
 
 function App() {
   return (
